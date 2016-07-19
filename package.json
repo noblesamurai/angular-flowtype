@@ -1,6 +1,6 @@
 {
   "name": "@noblesam/angular-flowtype",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of angular-flowtype for publish to npm.",
   "main": "angular-flowtype.js",
   "scripts": {
